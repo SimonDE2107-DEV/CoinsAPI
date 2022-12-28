@@ -1,0 +1,10 @@
+name: CoinsAPI
+version: '${project.version}'
+main: de.simonde2107.coinsapi.CoinsAPI
+api-version: 1.19
+authors: [ SimonDE2107 ]
+description: A simple coins api
+
+commands:
+  coinsadmin:
+  money:
